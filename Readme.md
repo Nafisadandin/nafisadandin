@@ -24,6 +24,6 @@ I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10
 ###   📫 Connect with me 
  👯 I’m looking to collaborate on open source
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nafisadandin-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nafisadandin-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id)
 
 [![github](https://img.shields.io/badge/github-nafisadandin-secondary?logo=github)](https://www.github.com/in/your-github-profile)
