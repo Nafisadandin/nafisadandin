@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nafisa!
 #### About Me 
-#### I'm a student pursuing degree @Abdul Kalam college | Gadag, India
+#### A BCA student from Abdul Kalam college with a keen interest in web development and programming. I'm currently diving into Java to expand my skill set
 
   https://classroom.codingninjas.com/app/classroom        
   
@@ -8,9 +8,9 @@
 
  🌱I’m currently learning java
  
-  Familiar with HTML and CSS
+   Familiar with HTML and CSS
   
- ⚡I like playing badminton
+ ⚡I like badminton
  
  ### Skills
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white)
@@ -27,7 +27,7 @@
 ###  🔭 Hackathon
 I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10X devloperClub.
 ###   📫 Connect with me 
- 👯 I’m looking to collaborate on open source
+   Let's collaborate and create something amazing togther!
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nafisadandin-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id)
 
