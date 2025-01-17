@@ -2,7 +2,9 @@
 #### About Me 
 #### I'm a student pursuing degree @Abdul Kalam college | Gadag, India
 
-  https://classroom.codingninjas.com/app/classroom
+  https://classroom.codingninjas.com/app/classroom        
+  
+  // coding ninjas logo 
 
  🌱I’m currently learning java
  
@@ -19,6 +21,9 @@
 
 
 ![Coding Ninjas Sreak](https://img.shields.io/badge/Coding_Ninjas_Streak-58days-orange?style=for-the-badge)
+
+ ### coding ninjas streak and stats :
+ 
 ###  🔭 Hackathon
 I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10X devloperClub.
 ###   📫 Connect with me 
