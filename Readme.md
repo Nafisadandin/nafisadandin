@@ -1,10 +1,12 @@
 ## 👋 Hello, I'm Nafisa!
-#### About Me 
+<img
+  src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png" width="100" height="60"
+            alt="coding ninjas logo"/>
+  #### About Me
+            
 #### A BCA student from Abdul Kalam college with a keen interest in web development and programming. I'm currently diving into Java to expand my skill set
 
-  https://classroom.codingninjas.com/app/classroom        
-  
-  // coding ninjas logo 
+
 
  🌱I’m currently learning java
  
