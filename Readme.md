@@ -33,7 +33,6 @@ I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nafisadandin-blue?logo=linkedin)](https://www.linkedin.com/in/nafisa-dandin-0bb17833a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[![github](https://img.shields.io/badge/github-nafisadandin-secondary?logo=github)](https://www.github.com/in/your-github-profile)
+[![github](https://img.shields.io/badge/github-nafisadandin-secondary?logo=github)](https://github.com/Nafisadandin/nafisadandin/edit/main/Readme.md)
 
-https://www.linkedin.com/in/nafisa-dandin-0bb17833a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-https://www.linkedin.com/in/your-linkedin-id
+
