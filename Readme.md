@@ -10,11 +10,10 @@
 
 
 
- #### 🌱 I’m currently learning java
+ 🌱 I’m currently learning java,
+  familiar with HTML and CSS
  
-   #### Familiar with HTML and CSS
-  
- #### ⚡I like badminton
+⚡I like badminton
  
  ### Skills
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white)
