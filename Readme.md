@@ -1,18 +1,20 @@
-## 👋 Hello, I'm Nafisa!
+   ##  👋 Hello, I'm Nafisa Dandin! 
 <img
   src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png" width="100" height="60"
-            alt="coding ninjas logo"/>
-  #### About Me
+            alt="coding ninjas logo"/> 
+            
+[![Coding ninjas](https://img.shields.io/badge/codingninjas-nafisadandin-secondary?logo=codingninjas)](https://www.naukri.com/code360/profile/ddd21640-6781-4450-b808-bb551f59935c)
+  ###  About Me
             
 #### A BCA student from Abdul Kalam college with a keen interest in web development and programming. I'm currently diving into Java to expand my skill set
 
 
 
- 🌱I’m currently learning java
+ #### 🌱 I’m currently learning java
  
-   Familiar with HTML and CSS
+   #### Familiar with HTML and CSS
   
- ⚡I like badminton
+ #### ⚡I like badminton
  
  ### Skills
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html&logoColor=white)
@@ -21,10 +23,8 @@
 ### Nafisa's Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafisadandin&show_icons=true&theme=radical)
 
+![Coding Ninjas Sreak](https://img.shields.io/badge/Coding_Ninjas_Streak-57days-orange?style=for-the-badge)
 
-![Coding Ninjas Sreak](https://img.shields.io/badge/Coding_Ninjas_Streak-58days-orange?style=for-the-badge)
-
- ### coding ninjas streak and stats :
  
 ###  🔭 Hackathon
 I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10X devloperClub.
@@ -35,4 +35,5 @@ I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10
 
 [![github](https://img.shields.io/badge/github-nafisadandin-secondary?logo=github)](https://github.com/Nafisadandin/nafisadandin)
 
+[![Email](https://img.shields.io/badge/Email-nafisa%20dandin-red?style=flat&logo=gmail)](mailto:nafisadandin012@gmail.com)
 
