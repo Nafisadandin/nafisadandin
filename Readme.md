@@ -3,7 +3,7 @@
   src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png" width="100" height="60"
             alt="coding ninjas logo"/> 
             
-[![Coding ninjas](https://img.shields.io/badge/codingninjas-nafisadandin-purple?logo=codingninjas)](https://www.naukri.com/code360/profile/ddd21640-6781-4450-b808-bb551f59935c)
+[![Coding ninjas](https://img.shields.io/badge/codingninjas-nafisadandin-secondary?logo=codingninjas)](https://www.naukri.com/code360/profile/ddd21640-6781-4450-b808-bb551f59935c)
   ###  About Me
             
 #### A BCA student from Abdul Kalam college with a keen interest in web development and programming. I'm currently diving into Java to expand my skill set
