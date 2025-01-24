@@ -1,4 +1,4 @@
-   ##  👋 Hello, I'm Nafisa Dandin! 
+   <div align="center"> <h2>👋 Hello, I'm Nafisa Dandin!</h2></div> 
 <img
   src="https://ninjasfiles.s3.amazonaws.com/0000000000001394.png" width="100" height="60"
             alt="coding ninjas logo"/> 
