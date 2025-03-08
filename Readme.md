@@ -27,7 +27,7 @@
 
  
 ###  🔭 Hackathon
-I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas and 10X devloperClub.
+I have secured 8th Rank in HackerCup Hackathon organised by Coding ninjas 10X devloperClub.
 ###   📫 Connect with me 
  ⚡  Let's collaborate and create something amazing togther!
  
